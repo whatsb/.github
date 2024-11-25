@@ -7,3 +7,4 @@
   - WhatsApp Chat Widget - https://www.whatsbox.io/whatsapp-chat-widget/
   - WhatsApp Marketing Cost Calculator - https://www.whatsbox.io/whatsapp-marketing-cost-calculator/
   - WhatsApp QR Code Generator - https://www.whatsbox.io/whatsapp-qr-code-generator/
+- Contact Us - https://www.whatsbox.io/contact-us/
